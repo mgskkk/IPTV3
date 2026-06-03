@@ -34,7 +34,6 @@
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
-|[传说引导页](https://oooo.cc.ua/)|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
 |~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
@@ -61,7 +60,6 @@ IPV6是否开启查询：https://testipv6.com
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|OK猫开发|http://ok213.top/tv|源|
 |[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |王小二|https://9280.kstore.space/wex.json|源|
@@ -74,6 +72,7 @@ IPV6是否开启查询：https://testipv6.com
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
 |FongMi|https://fongmi.eu.org/|源导航|
+|~~OK猫开发~~|~~http://ok213.top/tv~~|源|
 
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
