@@ -41,18 +41,7 @@
 
 直播源现在很多有些只有特定地区不卡。建议先输入点播源（会自动补齐直播源）。还想看电视直播的可以翻到下面自带源软件目录（但官方源不高清）。
 
-------------
-
-其他直播源
-
-- [iptv共享系统](https://gyssi.link/login.html)（TG获取密钥，稳定服务收费）
-- [epg.pw免费电视节目表](https://epg.pw/test_channel_page.html?lang=zh-hans)
-- [Pixman](https://pixman.io/)（普通人别折腾）
-- ~~[stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）~~
-
-IPV6是否开启查询：https://testipv6.com
-
-直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
+直播源检测有效性软件：https://github.com/zhimin-dev/iptv-checker
 
 ------------
 
