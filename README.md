@@ -111,7 +111,7 @@ IPV6是否开启查询：https://testipv6.com
 | ------------ | ------------ | ------------ |
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
 |FongMi影视|https://github.com/FongMi/Release/tree/fongmi/apk|Android电视/手机|
-|OK影视|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
+|~~OK影视~~|~~https://github.com/FongMi/Release/tree/okjack/apk/release~~|Android电视/手机|
 |TVBox-Swift|https://github.com/Jstrom2022/tvbox-Swift|macOS/iOS|
 |OrionTV|https://github.com/zimplexing/OrionTV/releases|Android电视|
 |MoonTV|https://github.com/MoonTechLab/LunaTV|需自己构建|
