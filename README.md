@@ -39,7 +39,7 @@
 |~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
 |~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
 
-直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。也可以先输入点播源，这样会自动填写点播源自带的直播源。
+直播源现在很多有些只有特定地区不卡。建议先输入点播源（会自动补齐直播源）。还想看电视直播的可以翻到下面自带源软件目录（但官方源不高清）。
 
 ------------
 
