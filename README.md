@@ -49,7 +49,7 @@
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.cc/tv http://fty.xxooo.cf/tv|源|
+|[饭太硬](https://www.饭太硬.com/ "饭太硬")|1. http://www.饭太硬.cc/tv 2. http://fty.xxooo.cf/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |王小二|https://9280.kstore.space/wex.json|源|
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
